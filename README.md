@@ -1,6 +1,6 @@
-# Landscape Categorization Model
+# Simple compiler
 
-A classification algorithm in supervised machine learning that utilizes pattern recognition techniques and statistical methods.
+A code compiler based in Python that implements vital control flow structures such as if then else and function definition.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
